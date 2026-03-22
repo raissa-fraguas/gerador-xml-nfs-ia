@@ -1,5 +1,5 @@
-# nfs-lavras
-# Gerador de NFS-e para Lavras/MG
+# gerador-xml-nfs-ia
+# Gerador de xml para NFS-e no município de Lavras/MG
 
 > Sistema para geração automática de Nota Fiscal de Serviço Eletrônica (NFS-e) e recibos com base em arquivos `.txt`, seguindo o schema XSD do município de **Lavras - MG**.
 
